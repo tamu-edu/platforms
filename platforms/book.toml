@@ -6,4 +6,4 @@ src = "src"
 title = "platforms"
 
 [build]
-build-dir = "public"
+build-dir = "book"
