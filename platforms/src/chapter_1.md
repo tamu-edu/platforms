@@ -1,5 +1,0 @@
-# Managed Platforms
-
-## Intro
-
-test
